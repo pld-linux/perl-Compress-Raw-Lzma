@@ -8,13 +8,13 @@
 Summary:	Compress::Raw::Lzma - low-level Interface to lzma compression library
 Summary(pl.UTF-8):	Compress::Raw::Lzma - niskopoziomowy interfejs do biblioteki kompresji lzma
 Name:		perl-Compress-Raw-Lzma
-Version:	2.033
+Version:	2.045
 Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/Compress/PMQS/Compress-Raw-Lzma-%{version}.tar.gz
-# Source0-md5:	d7730072133ff05988680dc1c69090ab
+# Source0-md5:	18a3d8b5fb20a0702f28b7cf8c71c3b2
 URL:		http://search.cpan.org/dist/Compress-Raw-Lzma/
 BuildRequires:	perl-ExtUtils-MakeMaker >= 5.16
 BuildRequires:	perl-devel >= 1:5.8.0
