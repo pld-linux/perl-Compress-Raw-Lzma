@@ -13,7 +13,7 @@ Release:	2
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
-Source0:	http://www.cpan.org/modules/by-module/Compress/PMQS/Compress-Raw-Lzma-%{version}.tar.gz
+Source0:	http://www.cpan.org/modules/by-module/Compress/Compress-Raw-Lzma-%{version}.tar.gz
 # Source0-md5:	18a3d8b5fb20a0702f28b7cf8c71c3b2
 URL:		http://search.cpan.org/dist/Compress-Raw-Lzma/
 BuildRequires:	perl-ExtUtils-MakeMaker >= 5.16
