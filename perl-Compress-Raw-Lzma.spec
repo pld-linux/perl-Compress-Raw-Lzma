@@ -68,6 +68,5 @@ rm -rf $RPM_BUILD_ROOT
 %{perl_vendorarch}/Compress/Raw/Lzma.pm
 %dir %{perl_vendorarch}/auto/Compress/Raw/Lzma
 %{perl_vendorarch}/auto/Compress/Raw/Lzma/autosplit.ix
-%{perl_vendorarch}/auto/Compress/Raw/Lzma/Lzma.bs
 %attr(755,root,root) %{perl_vendorarch}/auto/Compress/Raw/Lzma/Lzma.so
 %{_mandir}/man3/Compress::Raw::Lzma.3pm*
