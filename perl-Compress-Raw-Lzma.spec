@@ -4,7 +4,6 @@
 #
 %define		pdir	Compress
 %define		pnam	Raw-Lzma
-%include	/usr/lib/rpm/macros.perl
 Summary:	Compress::Raw::Lzma - low-level Interface to lzma compression library
 Summary(pl.UTF-8):	Compress::Raw::Lzma - niskopoziomowy interfejs do biblioteki kompresji lzma
 Name:		perl-Compress-Raw-Lzma
